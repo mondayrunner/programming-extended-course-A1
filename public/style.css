@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px 50px;
+  background-color: #fff;
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+h1,h2 {
+  margin: 0 0 10px 0;
+}
+
+h2 {
+  color: #777;
+  font-style: italic;
+}
+
+footer {
+  text-align: right;
+}
